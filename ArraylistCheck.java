@@ -26,6 +26,8 @@ public class ArraylistCheck {
 			
 			System.out.println(i);
 		}
+		System.out.println("This is git changes....");
+		
 	}
 
 }
